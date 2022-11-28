@@ -165,6 +165,10 @@
   font-weight: normal;
 }
 
+.table__text-margin {
+  margin: 16px 0 0 0;
+}
+
 .feynman {
   height: 890px;
   display: flex;
